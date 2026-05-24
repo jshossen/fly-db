@@ -3,9 +3,9 @@ Contributors: jshossen
 Donate link: https://github.com/jshossen/flydb
 Tags: phpmyadmin, database, admin, explorer, mysql
 Requires at least: 5.8
-Tested up to: 6.9
+Tested up to: 7.0
 Requires PHP: 7.4
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPL-2.0-or-later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -269,6 +269,9 @@ Yes! The Query Builder allows you to save query configurations as presets. You c
 6. Related data panel showing table relationships
 
 == Changelog ==
+
+= 1.0.2 - 2026-05-24 =
+* ✅ WordPress 7.0 compatibility
 
 = 1.0.1 - 2026-04-04 =
 * 📝 Updated plugin description and tags to be more accurate
